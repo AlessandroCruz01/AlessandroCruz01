@@ -2,7 +2,7 @@
 
 - Hi, my name is Alessandro Cruz 
 - I’m 22 years old
-- Bachelor in Information Systems
+- Bachelor in Information Systems in Estácio Unimeta
 
  <div>
   <a href="https://github.com/alessandrocruz01">
