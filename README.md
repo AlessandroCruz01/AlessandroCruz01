@@ -1,14 +1,16 @@
 # Welcome to my profile! 👋
 
-- Hi, my name is Alessandro Cruz 
+- Hi, my name is Alessandro Cruz
 - I’m 22 years old
 - Bachelor in Information Systems in Estácio Unimeta
 
+---
+
  <div>
   <a href="https://github.com/alessandrocruz01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrocruz01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocruz01&layout=compact&langs_count=7&theme=dark"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandrocruz01&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandrocruz01&layout=compact&langs_count=8&theme=dark"/>
+    <img align="right" alt="Avatar Sandro" height="180em" src="./static.gif">
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,21 +21,21 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="right" alt="Avatar Sandro" height="180em" src="./static.gif">
+
 </div>
   
-   ##
- 
-<div> 
-
-  <a href="https://www.instagram.com/sandro_admin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
-
- <a href="https://discord.gg/Alessandro Cruz#2724" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a> 
   
-  <a href = "mailto:alessandrocruzadm01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  
-  <a href="https://www.linkedin.com/in/alessandro-cruz-1871761b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a> 
  
+<div style="display: inline_block">
+
+<a href="https://www.instagram.com/sandro_admin/" target="_blank"><img style="margin: 10px" align="right"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+
+<a href="https://discord.gg/AlessandroCruz#2724" target="_blank"><img align="right" style="margin: 10px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a>
+
+<a href = "mailto:alessandrocruzadm01@gmail.com"><img align="right" style="margin: 10px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+
+<a href="https://www.linkedin.com/in/alessandro-cruz-1871761b5/" target="_blank"><img style="margin: 10px" align="right"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+
 </div>
 
 <!---
