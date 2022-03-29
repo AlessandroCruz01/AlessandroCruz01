@@ -28,13 +28,13 @@
  
 <div style="display: inline_block">
 
-<a href="https://www.instagram.com/sandro_admin/" target="_blank"><img style="margin: 10px" align="right"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
+<a href="https://www.instagram.com/sandro_admin/" target="_blank"><img style="margin: 10px" align="left"  src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 
-<a href="https://discord.gg/AlessandroCruz#2724" target="_blank"><img align="right" style="margin: 10px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a>
+<a href="https://discord.gg/AlessandroCruz#2724" target="_blank"><img align="left" style="margin: 10px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=black" target="_blank"></a>
 
-<a href = "mailto:alessandrocruzadm01@gmail.com"><img align="right" style="margin: 10px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
+<a href = "mailto:alessandrocruzadm01@gmail.com"><img align="left" style="margin: 10px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
 
-<a href="https://www.linkedin.com/in/alessandro-cruz-1871761b5/" target="_blank"><img style="margin: 10px" align="right"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/alessandro-cruz-1871761b5/" target="_blank"><img style="margin: 10px" align="left"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"></a>
 
 </div>
 
